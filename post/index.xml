@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Арсений Бутерин</title>
-    <link>https://agbuterin.github.io/post/</link>
-      <atom:link href="https://agbuterin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://agbuterin.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>https://agbuterin.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>My cute week</title>
-      <link>https://agbuterin.github.io/post/4week/</link>
+      <link>http://localhost:1313/post/4week/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/4week/</guid>
+      <guid>http://localhost:1313/post/4week/</guid>
       <description>&lt;p&gt;There was nothing interesting this week, I went to training, classes and work. Most of all, I remember a lovely weekend evening with my girlfriend. We went to the store and bought various ingredients for making homemade burgers. And brightened up the weekend evening with animated series. The burgers turned out to be very tasty, write comments if you need a recipe!&amp;lt;3&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://agbuterin.github.io/post/scientific-programming-languages/</link>
+      <link>http://localhost:1313/post/scientific-programming-languages/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/scientific-programming-languages/</guid>
+      <guid>http://localhost:1313/post/scientific-programming-languages/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Scientific programming languages are specialized tools designed to facilitate the development of algorithms, data analysis, and simulations in scientific research. These languages are optimized for handling complex mathematical computations, large datasets, and intricate simulations, making them invaluable in fields such as physics, engineering, bioinformatics, and data science. This report provides an overview of some prominent scientific programming languages, their features, and their applications.&lt;/p&gt;
 &lt;hr&gt;
@@ -73,9 +73,9 @@
     
     <item>
       <title>Bibliography management</title>
-      <link>https://agbuterin.github.io/post/bibliography-management/</link>
+      <link>http://localhost:1313/post/bibliography-management/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/bibliography-management/</guid>
+      <guid>http://localhost:1313/post/bibliography-management/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bibliography management is a crucial aspect of academic writing and research. Proper handling of bibliographic information ensures that sources are accurately cited, allowing readers to verify references and providing proper credit to original authors. This report covers the fundamentals of working with bibliographies, including methods for creating and managing bibliographic references, and tools that facilitate this process.&lt;/p&gt;
 &lt;hr&gt;
@@ -122,18 +122,18 @@
     
     <item>
       <title>My small rest</title>
-      <link>https://agbuterin.github.io/post/3week/</link>
+      <link>http://localhost:1313/post/3week/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/3week/</guid>
+      <guid>http://localhost:1313/post/3week/</guid>
       <description>&lt;p&gt;This week I went to my native village, where I often spent time in the summer.I really love this place because I feel great in it. I really love the fresh air and nature. I went to help my parents, but I also did not forget about the rest, of course) I met with old friends and we had a great evening by the river&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Markup languages. LaTeX</title>
-      <link>https://agbuterin.github.io/post/latex/</link>
+      <link>http://localhost:1313/post/latex/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/latex/</guid>
+      <guid>http://localhost:1313/post/latex/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;text, applying formatting, and incorporating complex elements such as tables, formulas, and graphics. One of the most powerful and widely used markup languages is LaTeX. This report is dedicated to the basics of LaTeX, its key features, and its applications.&lt;/p&gt;
 &lt;hr&gt;
@@ -184,27 +184,27 @@
     
     <item>
       <title>My food week</title>
-      <link>https://agbuterin.github.io/post/2week/</link>
+      <link>http://localhost:1313/post/2week/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/2week/</guid>
+      <guid>http://localhost:1313/post/2week/</guid>
       <description>&lt;p&gt;This week I worked a lot at the restaurant &amp;ldquo;Starik Hinkalych&amp;rdquo;. Working as a waiter is exhausting not only physically, but also mentally, like any work with people. During this week, I realized that working as a waiter is not for me, so I will study even harder so that I like my future job&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🎉 My first post there!</title>
-      <link>https://agbuterin.github.io/post/1week/</link>
+      <link>http://localhost:1313/post/1week/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/1week/</guid>
+      <guid>http://localhost:1313/post/1week/</guid>
       <description>&lt;p&gt;This week has been very productive. the team and I trained a lot and performed at competitions, where we took third place. Overall, we are very happy with the result, but we are not going to stop there, because further-more!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Version management. Git.</title>
-      <link>https://agbuterin.github.io/post/git/</link>
+      <link>http://localhost:1313/post/git/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/post/git/</guid>
+      <guid>http://localhost:1313/post/git/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In modern programming, version control has become an integral part of software development. It allows tracking changes in code, managing different versions of programs, and facilitates collaborative work on projects. One of the most popular tools for version control is Git. This report covers the basics of Git, its key features, and its principles of operation.&lt;/p&gt;
 &lt;hr&gt;
