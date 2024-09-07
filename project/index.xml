@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Арсений Бутерин</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Arseny Buterin</title>
+    <link>https://agbuterin.github.io/project/</link>
+      <atom:link href="https://agbuterin.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://agbuterin.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://agbuterin.github.io/project/</link>
     </image>
     
     <item>
       <title>My research</title>
-      <link>http://localhost:1313/project/research/</link>
+      <link>https://agbuterin.github.io/project/research/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/research/</guid>
+      <guid>https://agbuterin.github.io/project/research/</guid>
       <description>&lt;p&gt;I conducted research on the topic: &amp;ldquo;should we create separate clinics for the elderly with different kinds of benefits?&amp;rdquo; by polling people on the street I found out that 83% of respondents were in favor of dividing the clinics into adult/elderly. People under 30 voted unanimously for dividing the clinics because it is very difficult to get an appointment with a doctor due to the huge number of elderly people.&lt;/p&gt;</description>
     </item>
     

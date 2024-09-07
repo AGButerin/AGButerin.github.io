@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Арсений Бутерин</title>
+    <link>https://agbuterin.github.io/ru/project/</link>
+      <atom:link href="https://agbuterin.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://agbuterin.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>https://agbuterin.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Моё исследование</title>
+      <link>https://agbuterin.github.io/ru/project/research/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://agbuterin.github.io/ru/project/research/</guid>
+      <description>&lt;p&gt;Я проводил исследование на тему: «стоит ли создавать отдельные поликлиники для пожилых людей с разными льготами?» Опросив людей на улице, я выяснил, что 83% респондентов высказались за разделение поликлиник на взрослые/пожилые. За разделение поликлиник единогласно проголосовали люди до 30 лет, поскольку из-за огромного количества пожилых людей попасть на прием к врачу очень сложно.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
