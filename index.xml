@@ -34,6 +34,65 @@
     </item>
     
     <item>
+      <title>My cute week</title>
+      <link>https://agbuterin.github.io/post/4week/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://agbuterin.github.io/post/4week/</guid>
+      <description>&lt;p&gt;There was nothing interesting this week, I went to training, classes and work. Most of all, I remember a lovely weekend evening with my girlfriend. We went to the store and bought various ingredients for making homemade burgers. And brightened up the weekend evening with animated series. The burgers turned out to be very tasty, write comments if you need a recipe!&amp;lt;3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://agbuterin.github.io/post/scientific-programming-languages/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://agbuterin.github.io/post/scientific-programming-languages/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scientific programming languages are specialized tools designed to facilitate the development of algorithms, data analysis, and simulations in scientific research. These languages are optimized for handling complex mathematical computations, large datasets, and intricate simulations, making them invaluable in fields such as physics, engineering, bioinformatics, and data science. This report provides an overview of some prominent scientific programming languages, their features, and their applications.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;Importance of Scientific Programming Languages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Scientific programming languages are essential for:&lt;/p&gt;
+&lt;p&gt;• Data Analysis: Efficiently analyzing and interpreting large and complex datasets.&lt;/p&gt;
+&lt;p&gt;• Algorithm Development: Implementing and testing algorithms for scientific computations and simulations.&lt;/p&gt;
+&lt;p&gt;• Modeling and Simulation: Creating models to simulate physical phenomena and predict outcomes.
+• Reproducibility: Ensuring that scientific experiments and computations can be replicated and verified.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Key Scientific Programming Languages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Several programming languages are widely used in scientific research. Each has unique strengths and areas of application:&lt;/p&gt;
+&lt;p&gt;• Python&lt;/p&gt;
+&lt;p&gt;o Overview: Python is a versatile, high-level programming language known for its readability and ease of use. It has become a popular choice in scientific computing due to its extensive libraries and community support.&lt;/p&gt;
+&lt;p&gt;o Features: Rich set of libraries such as NumPy, SciPy, pandas, and Matplotlib for numerical computing, data analysis, and visualization. Integration with Jupyter notebooks allows for interactive computing.&lt;/p&gt;
+&lt;p&gt;o Applications: Data analysis, machine learning, statistical modeling, simulation, and visualization.&lt;/p&gt;
+&lt;p&gt;• MATLAB&lt;/p&gt;
+&lt;p&gt;o Overview: MATLAB (Matrix Laboratory) is a proprietary language and environment specifically designed for numerical computing and matrix operations.&lt;/p&gt;
+&lt;p&gt;o Features: Built-in functions for linear algebra, numerical analysis, and visualization. Provides extensive toolboxes for various applications such as control systems, signal processing, and image processing.&lt;/p&gt;
+&lt;p&gt;o Applications: Engineering simulations, control systems, signal processing, and algorithm development.&lt;/p&gt;
+&lt;p&gt;• R&lt;/p&gt;
+&lt;p&gt;o Overview: R is a language and environment designed for statistical computing and graphics. It is widely used in statistics and data analysis.&lt;/p&gt;
+&lt;p&gt;o Features: Comprehensive statistical libraries and packages, rich graphical capabilities, and support for data manipulation and modeling. The Comprehensive R Archive Network (CRAN) offers a wide range of packages.&lt;/p&gt;
+&lt;p&gt;o Applications: Statistical analysis, data visualization, bioinformatics, and econometrics.&lt;/p&gt;
+&lt;p&gt;• Fortran&lt;/p&gt;
+&lt;p&gt;o Overview: Fortran (Formula Translation) is one of the oldest high-level programming languages, specifically designed for numerical and scientific computing.&lt;/p&gt;
+&lt;p&gt;o Features: Efficient handling of array operations, support for complex mathematical functions, and high performance in numerical computations.&lt;/p&gt;
+&lt;p&gt;o Applications: Computational fluid dynamics, climate modeling, and large-scale simulations.&lt;/p&gt;
+&lt;p&gt;• C++&lt;/p&gt;
+&lt;p&gt;o Overview: C++ is a general-purpose programming language with support for object-oriented and generic programming. It is often used in performance-critical applications.&lt;/p&gt;
+&lt;p&gt;o Features: High performance, control over system resources, and extensive standard libraries. The Boost and Eigen libraries provide additional functionalities for scientific computing.&lt;/p&gt;
+&lt;p&gt;o Applications: High-performance simulations, numerical analysis, and software requiring fine-tuned performance.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Comparing Scientific Programming Languages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each scientific programming language has its own strengths and is suited to different types of tasks:&lt;/p&gt;
+&lt;p&gt;• Python: Excellent for ease of use, rapid development, and integration with other tools. Ideal for data analysis and machine learning.&lt;/p&gt;
+&lt;p&gt;• MATLAB: Specialized in matrix operations and numerical computing. Best suited for engineering and control systems.&lt;/p&gt;
+&lt;p&gt;• R: Superior in statistical analysis and data visualization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bibliography management</title>
       <link>https://agbuterin.github.io/post/bibliography-management/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
@@ -223,30 +282,6 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://agbuterin.github.io/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://agbuterin.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://agbuterin.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://agbuterin.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://agbuterin.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -507,6 +542,14 @@ data.head()
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>My research</title>
+      <link>https://agbuterin.github.io/project/research/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://agbuterin.github.io/project/research/</guid>
+      <description>&lt;p&gt;I conducted research on the topic: &amp;ldquo;should we create separate clinics for the elderly with different kinds of benefits?&amp;rdquo; by polling people on the street I found out that 83% of respondents were in favor of dividing the clinics into adult/elderly. People under 30 voted unanimously for dividing the clinics because it is very difficult to get an appointment with a doctor due to the huge number of elderly people.&lt;/p&gt;</description>
     </item>
     
     <item>
